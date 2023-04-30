@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import LogoTitle from '../../assets/images/logo-s.png'
+import LogoTitle from '../../assets/images/logo-k.png'
 import './index.scss'
 
 export default function Home() {
@@ -8,9 +8,9 @@ export default function Home() {
       <div className="container home-page">
         <div className="text-zone ">
           <h1>
-            Hi, <br /> I'm
-            <img src={LogoTitle} alt="developer" />
-            liang
+            Hi,
+            <br /> I'm &nbsp; <img src={LogoTitle} alt="developer" />
+            urt Liang
             <br />
             Web developer
           </h1>
