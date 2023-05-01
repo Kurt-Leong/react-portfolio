@@ -1,6 +1,6 @@
 import { Link, NavLink } from 'react-router-dom'
 import './index.scss'
-import LogoS from '../../assets/images/logo-s.png'
+import LogoK from '../../assets/images/logo-k.png'
 import LogoSUbtitle from '../../assets/images/logo_sub.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faEnvelope, faHome, faUser } from '@fortawesome/free-solid-svg-icons'
@@ -10,7 +10,7 @@ export default function NavBar() {
   return (
     <div className="nav-bar">
       <Link className="logo" to="/">
-        <img src={LogoS} alt="logo" />
+        <img src={LogoK} alt="logo" />
         <img className="sub-logo" src={LogoSUbtitle} alt="slobodan" />
       </Link>
       <nav>
