@@ -3,6 +3,7 @@ import LogoTitle from '../../assets/images/logo-k.png'
 import './index.scss'
 import { useEffect, useState } from 'react'
 import AnumatedLetters from '../AnimatedLetters'
+import Loader from 'react-loaders'
 
 export default function Home() {
   const [letterClass, setLetterClass] = useState('text-animate')
@@ -47,6 +48,7 @@ export default function Home() {
           </Link>
         </div>
       </div>
+      <Loader type="pacman" />
     </>
   )
 }
