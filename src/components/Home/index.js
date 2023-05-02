@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom'
 import LogoTitle from '../../assets/images/logo-k.png'
 import './index.scss'
 import { useEffect, useState } from 'react'
-import AnumatedLetters from '../AnimatedLetters'
+import AnimatedLetters from '../AnimatedLetters'
 import Loader from 'react-loaders'
 
 export default function Home() {
@@ -30,13 +30,13 @@ export default function Home() {
             <span className={`${letterClass} _13`}>I</span>
             <span className={`${letterClass} _14`}>'m</span>
             &nbsp; <img src={LogoTitle} alt="developer" />
-            <AnumatedLetters
+            <AnimatedLetters
               letterClass={letterClass}
               strArray={nameArray}
               index={15}
             />
             <br />
-            <AnumatedLetters
+            <AnimatedLetters
               letterClass={letterClass}
               strArray={jobArray}
               index={24}
