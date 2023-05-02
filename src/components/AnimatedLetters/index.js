@@ -1,6 +1,6 @@
 import './index.scss'
 
-export default function AnumatedLetters({ letterClass, strArray, index }) {
+export default function AnimatedLetters({ letterClass, strArray, index }) {
   return (
     <span>
       {strArray.map((char, i) => (
