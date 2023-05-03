@@ -1,7 +1,7 @@
 import { Link, NavLink } from 'react-router-dom'
 import './index.scss'
 import LogoK from '../../assets/images/logo-k.png'
-import LogoSUbtitle from '../../assets/images/logo_sub.png'
+
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import CV from '../../assets/images/CV-Kurt.pdf'
 import {
@@ -18,7 +18,6 @@ export default function NavBar() {
     <div className="nav-bar">
       <Link className="logo" to="/">
         <img src={LogoK} alt="logo" />
-        <img className="sub-logo" src={LogoSUbtitle} alt="slobodan" />
       </Link>
       <nav>
         <NavLink exact="true" activeclassname="active" to="/">
