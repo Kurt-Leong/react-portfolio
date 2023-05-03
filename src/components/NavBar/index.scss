@@ -91,9 +91,15 @@
         content: 'PROJECTS';
       }
     }
+    a.CV-link {
+      &:after {
+        content: "CV";
+      }
+    }
+    
     a.active {
       svg {
-       color: #ffd700
+      //  color: #ffd700
       }
     }
   }

@@ -3,11 +3,13 @@ import './index.scss'
 import LogoK from '../../assets/images/logo-k.png'
 import LogoSUbtitle from '../../assets/images/logo_sub.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import CV from '../../assets/images/CV-Kurt.pdf'
 import {
   faEnvelope,
   faHome,
   faUser,
   faFolderOpen,
+  faFile,
 } from '@fortawesome/free-solid-svg-icons'
 import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons'
 
@@ -46,6 +48,17 @@ export default function NavBar() {
         >
           <FontAwesomeIcon icon={faEnvelope} color="#4d4d4e" />
         </NavLink>
+        <div>
+          <a
+            activeclassname="active"
+            className="CV-link"
+            href={CV}
+            target="_blank"
+            rel="noreferrer"
+          >
+            <FontAwesomeIcon icon={faFile} color="#4d4d4e" />
+          </a>
+        </div>
       </nav>
       <ul>
         <li>
