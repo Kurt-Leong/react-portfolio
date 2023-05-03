@@ -37,51 +37,17 @@ export default function About() {
             />
           </h1>
           <p>
-            Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Elit
-            ullamcorper dignissim cras tincidunt lobortis. Fusce id velit ut
-            tortor pretium. Tortor posuere ac ut consequat semper viverra nam
-            libero justo. Amet nulla facilisi morbi tempus iaculis. Ipsum
-            faucibus vitae aliquet nec ullamcorper sit amet risus nullam. Nulla
-            facilisi morbi tempus iaculis urna. Amet nisl suscipit adipiscing
-            bibendum est ultricies integer quis. Lorem dolor sed viverra ipsum
-            nunc aliquet bibendum. Eget mauris pharetra et ultrices neque
-            ornare. Id cursus metus aliquam eleifend mi. Ut venenatis tellus in
-            metus vulputate. Id neque aliquam vestibulum morbi. Amet consectetur
-            adipiscing elit duis. Lacus vestibulum sed arcu non odio euismod
-            lacinia at quis. Lectus urna duis convallis convallis tellus id. Eu
-            augue ut lectus arcu bibendum at varius. Eget mauris pharetra et
-            ultrices neque ornare aenean. Enim sit amet venenatis urna cursus
-            eget. Egestas purus viverra accumsan in nisl nisi scelerisque eu.
+            I've been working in the Education industry for almost a decade now,
+            but I needed a new challenge in my life. So I decided to enroll in
+            the Dev Academy and become a full-stack developer! I love to solve
+            puzzles and take on challenges, and coding has given me a whole new
+            set of problems to tackle.
           </p>
           <p>
-            Sagittis aliquam malesuada bibendum arcu vitae elementum curabitur.
-            Adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. In
-            vitae turpis massa sed elementum tempus. Congue mauris rhoncus
-            aenean vel elit scelerisque mauris. Vel orci porta non pulvinar.
-            Fermentum posuere urna nec tincidunt praesent semper feugiat nibh.
-            Urna porttitor rhoncus dolor purus non enim praesent elementum
-            facilisis. Cras pulvinar mattis nunc sed blandit libero. Amet
-            porttitor eget dolor morbi non arcu risus quis varius. Quam nulla
-            porttitor massa id neque aliquam. Faucibus a pellentesque sit amet
-            porttitor eget dolor morbi. Vitae turpis massa sed elementum tempus
-            egestas. Duis convallis convallis tellus id interdum velit laoreet
-            id donec. In eu mi bibendum neque. Sit amet risus nullam eget felis
-            eget.
-          </p>
-          <p>
-            Sagittis aliquam malesuada bibendum arcu vitae elementum curabitur.
-            Adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. In
-            vitae turpis massa sed elementum tempus. Congue mauris rhoncus
-            aenean vel elit scelerisque mauris. Vel orci porta non pulvinar.
-            Fermentum posuere urna nec tincidunt praesent semper feugiat nibh.
-            Urna porttitor rhoncus dolor purus non enim praesent elementum
-            facilisis. Cras pulvinar mattis nunc sed blandit libero. Amet
-            porttitor eget dolor morbi non arcu risus quis varius. Quam nulla
-            porttitor massa id neque aliquam. Faucibus a pellentesque sit amet
-            porttitor eget dolor morbi. Vitae turpis massa sed elementum tempus
-            egestas. Duis convallis convallis tellus id interdum velit laoreet
-            id donec. In eu mi bibendum neque. Sit amet risus nullam eget felis
-            eget.
+            I am also a CrossFit enthusiast and snowboard lover. And when I need
+            to wind down, I like to play some sweet tunes on my piano or
+            guitar.Thanks for checking out my portfolio, let's connect and make
+            some cool stuff together!
           </p>
         </div>
 
