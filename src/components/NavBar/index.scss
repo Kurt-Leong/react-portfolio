@@ -79,10 +79,16 @@
         content: 'ABOUT';
       }
     }
+    
 
     a.contact-link {
       &:after {
         content: 'CONTACT';
+      }
+    }
+    a.projects-link {
+      &:after {
+        content: 'PROJECTS';
       }
     }
     a.active {
