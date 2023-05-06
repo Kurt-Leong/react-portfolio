@@ -33,7 +33,7 @@ export default function Contact() {
         () => {
           alert('Message successfully sent!')
 
-          // window.location.reload(false)
+          window.location.reload(false)
         },
         () => {
           alert('Failed to send the Email, please try again.')
