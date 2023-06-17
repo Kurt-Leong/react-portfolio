@@ -24,16 +24,16 @@ export default function Contact() {
     e.preventDefault()
     emailjs
       .sendForm(
-        'service_ndvlcfj',
-        'template_xlfpk36',
+        'service_tbifktg',
+        'template_quhlvyl',
         refForm.current,
-        'fVrE8VI4v-dStAqC-'
+        'P0U8Hk5hOba9K0R0H'
       )
       .then(
         () => {
           alert('Message successfully sent!')
 
-          // window.location.reload(false)
+          window.location.reload(false)
         },
         () => {
           alert('Failed to send the Email, please try again.')
@@ -60,12 +60,17 @@ export default function Contact() {
             <form ref={refForm} onSubmit={sendEmail}>
               <ul>
                 <li className="half">
-                  <input type="text" name="name" placeholder="Name" required />
+                  <input
+                    type="text"
+                    name="user_name"
+                    placeholder="Name"
+                    required
+                  />
                 </li>
                 <li className="half">
                   <input
                     type="email"
-                    name="email"
+                    name="user_email"
                     placeholder="Email"
                     required
                   />
